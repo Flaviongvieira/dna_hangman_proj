@@ -5,3 +5,5 @@
 1. alculating the score between 2 DNA codes (with the ability to play around them - edit options;
 2. Play hangman using a list of provided words
 3. Exit the application 
+
+testing change
