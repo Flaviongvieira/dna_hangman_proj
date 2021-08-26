@@ -6,4 +6,3 @@
 2. Play hangman using a list of provided words
 3. Exit the application 
 
-testing change
